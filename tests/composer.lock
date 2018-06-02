@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kargirwar/barcoder.git",
-                "reference": "05b3330467e9a9b2f8d1140b309eebcad1a5009b"
+                "reference": "2cc62f674f872db8aa377dabe9164f7811cb9fc8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/05b3330467e9a9b2f8d1140b309eebcad1a5009b",
-                "reference": "05b3330467e9a9b2f8d1140b309eebcad1a5009b",
+                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/2cc62f674f872db8aa377dabe9164f7811cb9fc8",
+                "reference": "2cc62f674f872db8aa377dabe9164f7811cb9fc8",
                 "shasum": ""
             },
             "type": "library",
@@ -28,7 +28,14 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2018-06-02 06:19:07"
+            "license": [
+                "MIT"
+            ],
+            "keywords": [
+                "CODE 128",
+                "barcode"
+            ],
+            "time": "2018-06-02 07:38:59"
         }
     ],
     "packages-dev": [],
