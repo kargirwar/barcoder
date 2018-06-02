@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "129612fd999167122152a9f4150b3cf6",
+    "content-hash": "298f83ce52e95a0cc9c305aab7da4dbf",
+    "packages": [
+        {
+            "name": "kargirwar/barcoder",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kargirwar/barcoder.git",
+                "reference": "05b3330467e9a9b2f8d1140b309eebcad1a5009b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/05b3330467e9a9b2f8d1140b309eebcad1a5009b",
+                "reference": "05b3330467e9a9b2f8d1140b309eebcad1a5009b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "kargirwar\\Barcoder\\": "src/"
+                }
+            },
+            "support": {
+                "source": "https://github.com/kargirwar/barcoder/tree/master",
+                "issues": "https://github.com/kargirwar/barcoder/issues"
+            },
+            "time": "2018-06-02 06:19:07"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "kargirwar/barcoder": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
