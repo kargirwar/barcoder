@@ -1,5 +1,10 @@
 {
     "name": "kargirwar/barcoder",
+    "license": "MIT",
+    "keywords": [
+        "barcode",
+        "code 128",
+    ],
     "autoload": {
         "psr-4": {
             "kargirwar\\Barcoder\\": "src/"
