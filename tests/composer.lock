@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "129612fd999167122152a9f4150b3cf6",
-    "content-hash": "298f83ce52e95a0cc9c305aab7da4dbf",
+    "hash": "f3a6ad5c2af6c0074c14798a074dd8fd",
+    "content-hash": "1f381ad87b4a19430e505435be7962d4",
     "packages": [
         {
             "name": "kargirwar/barcoder",
@@ -27,10 +27,7 @@
                     "kargirwar\\Barcoder\\": "src/"
                 }
             },
-            "support": {
-                "source": "https://github.com/kargirwar/barcoder/tree/master",
-                "issues": "https://github.com/kargirwar/barcoder/issues"
-            },
+            "notification-url": "https://packagist.org/downloads/",
             "time": "2018-06-02 06:19:07"
         }
     ],
