@@ -1,7 +1,8 @@
 {
-	"autoload": {
-		"psr-4": {
-			"kargirwar\\Barcoder\\": "src/"
-		}
-	}
+    "name": "kargirwar/Barcoder",
+    "autoload": {
+        "psr-4": {
+            "kargirwar\\Barcoder\\": "src/"
+        }
+    }
 }
