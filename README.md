@@ -7,7 +7,7 @@ Examples of drawing the barcode to PDF are provided.
 php 7+
 
 # Installation
-composer require kargirwar/barcoder
+composer require kargirwar/barcoder:dev-master
 
 # Use
 ```php
