@@ -5,6 +5,6 @@ main();
 
 function main()
 {
-        print_r(Barcoder::encodeCode128C("123"));
+        print_r(Barcoder::encode(Barcoder::CODE_128_C, "1234"));
         
 }
