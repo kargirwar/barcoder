@@ -3,7 +3,7 @@
     "license": "MIT",
     "keywords": [
         "barcode",
-        "code 128",
+        "code 128"
     ],
     "autoload": {
         "psr-4": {
