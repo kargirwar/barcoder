@@ -1,5 +1,5 @@
 <?php
-namespace kargirwar\Barcoder;
+namespace Kargirwar\Barcoder;
 
 Class Map {
         const MAP_CODE_128 = [

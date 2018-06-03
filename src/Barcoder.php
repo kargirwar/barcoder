@@ -1,5 +1,5 @@
 <?php
-namespace kargirwar\Barcoder;
+namespace Kargirwar\Barcoder;
 
 class Barcoder {
     const CODE_128_C_START = '11010011100';

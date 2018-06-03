@@ -1,6 +1,6 @@
 <?php
 require(__DIR__ . "/vendor/autoload.php");
-use \kargirwar\Barcoder\Barcoder;
+use \Kargirwar\Barcoder\Barcoder;
 main();
 
 function main()

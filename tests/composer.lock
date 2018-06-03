@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f3a6ad5c2af6c0074c14798a074dd8fd",
-    "content-hash": "1f381ad87b4a19430e505435be7962d4",
+    "hash": "129612fd999167122152a9f4150b3cf6",
+    "content-hash": "298f83ce52e95a0cc9c305aab7da4dbf",
     "packages": [
         {
             "name": "kargirwar/barcoder",
@@ -13,29 +13,35 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kargirwar/barcoder.git",
-                "reference": "2cc62f674f872db8aa377dabe9164f7811cb9fc8"
+                "reference": "cde9202a6c86130b7403724faa1deb246afba043"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/2cc62f674f872db8aa377dabe9164f7811cb9fc8",
-                "reference": "2cc62f674f872db8aa377dabe9164f7811cb9fc8",
+                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/cde9202a6c86130b7403724faa1deb246afba043",
+                "reference": "cde9202a6c86130b7403724faa1deb246afba043",
                 "shasum": ""
+            },
+            "require": {
+                "php": "^7.0"
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "kargirwar\\Barcoder\\": "src/"
+                    "Kargirwar\\Barcoder\\": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
             "keywords": [
-                "CODE 128",
-                "barcode"
+                "barcode",
+                "code 128"
             ],
-            "time": "2018-06-02 07:38:59"
+            "support": {
+                "source": "https://github.com/kargirwar/barcoder/tree/master",
+                "issues": "https://github.com/kargirwar/barcoder/issues"
+            },
+            "time": "2018-06-03 14:47:10"
         }
     ],
     "packages-dev": [],
