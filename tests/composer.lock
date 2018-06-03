@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "129612fd999167122152a9f4150b3cf6",
-    "content-hash": "298f83ce52e95a0cc9c305aab7da4dbf",
+    "hash": "0c6bafbe9d4e8a5abcf9af9ddcc93303",
+    "content-hash": "730a0d3d33a49fe8903737f32447b099",
     "packages": [
         {
             "name": "kargirwar/barcoder",
-            "version": "dev-master",
+            "version": "v1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kargirwar/barcoder.git",
-                "reference": "cde9202a6c86130b7403724faa1deb246afba043"
+                "reference": "261a6adf22b30a118bb4a5ea39f0de3ce9de77da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/cde9202a6c86130b7403724faa1deb246afba043",
-                "reference": "cde9202a6c86130b7403724faa1deb246afba043",
+                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/261a6adf22b30a118bb4a5ea39f0de3ce9de77da",
+                "reference": "261a6adf22b30a118bb4a5ea39f0de3ce9de77da",
                 "shasum": ""
             },
             "require": {
@@ -30,26 +30,21 @@
                     "Kargirwar\\Barcoder\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
             "keywords": [
-                "barcode",
-                "code 128"
+                "CODE 128",
+                "barcode"
             ],
-            "support": {
-                "source": "https://github.com/kargirwar/barcoder/tree/master",
-                "issues": "https://github.com/kargirwar/barcoder/issues"
-            },
-            "time": "2018-06-03 14:47:10"
+            "time": "2018-06-03 14:56:10"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "kargirwar/barcoder": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

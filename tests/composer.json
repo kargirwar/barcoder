@@ -1,11 +1,5 @@
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kargirwar/barcoder"
-        }
-    ],
     "require": {
-        "kargirwar/barcoder": "dev-master"
+        "kargirwar/barcoder": "^1.0"
     }
 }
