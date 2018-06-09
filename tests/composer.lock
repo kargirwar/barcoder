@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0c6bafbe9d4e8a5abcf9af9ddcc93303",
-    "content-hash": "730a0d3d33a49fe8903737f32447b099",
+    "hash": "ccc191163ac3f507dc23d3ce651a56aa",
+    "content-hash": "aca806813c55ef820a142f87dbff7ea5",
     "packages": [
         {
             "name": "kargirwar/barcoder",
-            "version": "v1.0",
+            "version": "v1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kargirwar/barcoder.git",
-                "reference": "261a6adf22b30a118bb4a5ea39f0de3ce9de77da"
+                "reference": "074e4e55b10474353123ce46e49dac4552b854bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/261a6adf22b30a118bb4a5ea39f0de3ce9de77da",
-                "reference": "261a6adf22b30a118bb4a5ea39f0de3ce9de77da",
+                "url": "https://api.github.com/repos/kargirwar/barcoder/zipball/074e4e55b10474353123ce46e49dac4552b854bc",
+                "reference": "074e4e55b10474353123ce46e49dac4552b854bc",
                 "shasum": ""
             },
             "require": {
@@ -38,7 +38,7 @@
                 "CODE 128",
                 "barcode"
             ],
-            "time": "2018-06-03 14:56:10"
+            "time": "2018-06-04 11:56:49"
         }
     ],
     "packages-dev": [],

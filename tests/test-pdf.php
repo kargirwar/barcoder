@@ -1,16 +1,16 @@
 <?php
-require(__DIR__ . "/vendor/autoload.php");
+require(__DIR__ . "/../vendor/autoload.php");
 require('fpdf.php');
-use \kargirwar\Barcoder\Barcoder;
+use \Kargirwar\Barcoder\Barcoder;
 main();
 
 function main()
 {
     $pdf = new FPDF();
     $pdf->AddPage();
-    $barcode = Barcoder::encode(Barcoder::CODE_128_C, "1234");
+    $barcode = Barcoder::encode(Barcoder::CODE_128_A, "1234XYZ");
 
-    drawBarcode($pdf, 10, 10, 10, 2, $barcode);
+    drawBarcode($pdf, 10, 10, 10, 1, $barcode);
     ob_start();
     $pdf->Output();
     file_put_contents("out.pdf", ob_get_clean());
