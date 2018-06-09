@@ -1,5 +1,5 @@
 {
     "require": {
-        "kargirwar/barcoder": "^1.0"
+        "kargirwar/barcoder": "^1.1"
     }
 }
