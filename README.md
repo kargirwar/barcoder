@@ -11,7 +11,7 @@ composer require kargirwar/barcoder
 
 # Use
 ```php
-require("/vendor/autoload.php");
+require("vendor/autoload.php");
 use \Kargirwar\Barcoder\Barcoder;
 print_r(Barcoder::encode(Barcoder::CODE_128_C, "1234"));
 ```
